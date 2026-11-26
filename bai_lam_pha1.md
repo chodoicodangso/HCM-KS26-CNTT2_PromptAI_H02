@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Trịnh Nguyễn Vương Lâm
 - **Lớp:** HCM-KS26-CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/chodoicodangso/HCM-KS26-CNTT2_PromptAI_H02.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
@@ -23,7 +23,7 @@ Khách hàng [TEN_KHACH], số điện thoại [SO_DIEN_THOAI], số CCCD [SO_CC
 **CAU LENH**
 
 ```text
-Trước khi trả lời bất kì câu hỏi nào,bắt buộc phải đọc file đính kèm và dựa trên file đính kèm để đưa ra câu trả lời.Nếu file không có thông tin,AI không được bịa câu trả lời và báo rằng không có trên file đính kèm
+Trước khi trả lời bất kì câu hỏi nào,bắt buộc phải đọc file đính kèm và dựa trên file đính kèm để đưa ra câu trả lời.Nếu file không có thông tin,AI không được bịa câu trả lời đồng thời báo rằng không có trên file đính kèm
 Khi trả lời,bắt buộc phải trích dẫn từ trong file
 ```
 
