@@ -24,7 +24,7 @@ Khách hàng [TEN_KHACH], số điện thoại [SO_DIEN_THOAI], số CCCD [SO_CC
 
 ```text
 Trước khi trả lời bất kì câu hỏi nào,bắt buộc phải đọc file đính kèm và dựa trên file đính kèm để đưa ra câu trả lời.Nếu file không có thông tin,AI không được bịa câu trả lời đồng thời báo rằng không có trên file đính kèm
-Khi trả lời,bắt buộc phải trích dẫn từ trong file
+Khi trả lời,bắt buộc phải trích dẫn từ trong file,ghi rõ câu trả lời lấy từ mục hoặc điều khoản nào trong file
 ```
 
 ## 4.2. Trích xuất tin nhắn đặt vé vào cổng ra JSON
